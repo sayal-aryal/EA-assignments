@@ -1,0 +1,8 @@
+jdbcSettings:
+  url: jdbc:mysql://localhost:3306/simpsons?useSSL=false
+  username: root
+  password: root@123
+  driverClassName: com.mysql.cj.jdbc.Driver
+
+packageName: cs544
+outputDirectory: src/main/java
