@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Bank_Application" />
+        <module name="Course_Overview_2" />
+        <module name="W1D2-Dependency_Injection-1" />
+        <module name="Course_Overview_1" />
+        <module name="Dependency_Injection_3" />
+        <module name="W1D3-AOP-2" />
+        <module name="Dependency_Injection_2" />
+        <module name="AOP-1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Course_Overview_1" options="-parameters" />
+      <module name="Course_Overview_2" options="-endorseddirs E:\EA\EA-by-Michael\assignments\W1D1-Course_Overview_2\target/endorsed" />
+      <module name="W1D3-AOP-2" options="-parameters" />
+    </option>
+  </component>
+</project>
