@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" external-system-id="Maven" name="Course_Overview_2:war">
+    <output-path>$PROJECT_DIR$/W1D1-Course_Overview_2/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Course_Overview_2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Course_Overview_2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Course_Overview_2:war exploded" />
+    </root>
+  </artifact>
+</component>
